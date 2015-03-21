@@ -13,5 +13,5 @@ The Lisbon MongoDB User Group is a place for developers to learn more about the 
 A basic introduction to MongoDB
 
 
-####JEmily Stolfo - SWE on the Ruby Team @ MongoDB
+####Emily Stolfo - SWE on the Ruby Team @ MongoDB
 MongoDB 3.0 and the new pluggable storage engine API.
