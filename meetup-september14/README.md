@@ -10,8 +10,8 @@ The Lisbon MongoDB User Group is a place for developers to learn more about the 
 #Speakers
 
 ####Norberto Leite - Solutions Architect @ MongoDB
-[2.6 is great, what about 2.8?" - Improvements and setting expectations for what is coming on 2.8](https://github.com/mongodblisbon/meetup-september-2014/blob/master/2.6%20is%20great%2C%20what%20about%202.8%3F.pdf?raw=true)
+[2.6 is great, what about 2.8?" - Improvements and setting expectations for what is coming on 2.8](https://github.com/mongodblisbon/meetup-presentations/blob/master/meetup-september14/2.6%20is%20great%2C%20what%20about%202.8%3F.pdf?raw=true)
 
 
 ####João Ferreira - Software Developer @ Liquid
-["Unavoidable MapReduce"](https://github.com/mongodblisbon/meetup-september-2014/blob/master/Unavoidable%20MapReduce.pdf?raw=true)
+["Unavoidable MapReduce"](https://github.com/mongodblisbon/meetup-presentations/blob/master/meetup-september14/Unavoidable%20MapReduce.pdf?raw=true)
